@@ -1,0 +1,372 @@
+@media only screen and (max-width: 900px) 
+{
+    .p{
+        display: flex;
+        flex-direction: column;
+          }
+          .p label{
+            padding-top: 2rem; font-size: 30px;
+          }
+          .c{padding-top: 4rem; padding-bottom: 4rem;
+            display: flex;
+        flex-direction: column;
+          }
+          .c label{
+            padding-right: 2rem; font-size: 30px;
+          }
+          .l{
+            display: flex;
+            flex-direction: column;
+          }
+          .l label{
+            padding-right: 2rem; font-size: 30px;
+          }
+          .cookes{
+              padding-top: 2rem;
+          }
+          .cla-ro{
+            display: block;
+        }
+        .roop{
+            display: block;
+        }
+        .pronac{
+            padding-right: 0rem;
+        }
+        .pro{
+          padding-right: 2rem;
+        
+          display: flex;
+          flex-direction: column;
+       }
+        .ok{
+          padding: .5rem 5rem;
+          background: linear-gradient(to left, #cca01d, #bd9c17, #b88800, #daa520, #cca01d   );
+          color: #000000;
+          font-family: Roboto-Bold;
+          border: none;
+          font-size: 20px;
+          border-radius: 3rem;
+          margin-right: 0rem;
+          margin-bottom: 2rem;
+       }
+       .dis-fle{
+        display: block; padding-top: 3rem;
+        margin-top: 1rem;
+    }
+    .cordanar{
+      padding-bottom: 1rem;
+    }
+       .ok-dreem{
+        padding: .5rem 5rem;
+        background: linear-gradient(to left, #cca01d, #bd9c17, #b88800, #daa520, #cca01d   );
+        color: #000000;
+        font-family: Roboto-Bold;
+        border: none;
+        font-size: 20px;
+        border-radius: 0rem;
+        margin-right: 2rem;
+     }
+     .sendto{
+      padding: .5rem 7rem;
+      border-radius: 2rem;
+      background: linear-gradient(to left, #cca01d, #bd9c17, #b88800, #daa520, #cca01d   );
+      border: none;
+      font-size: 30px;
+      font-family: Roboto-Bold;
+      margin-top: 2rem;
+  }
+        .cookes{
+            padding-right: 0rem;
+        }
+        textarea{
+          padding: 12px 20px;
+          box-sizing: border-box;
+          border: 2px solid #ccc;
+          border-radius: 4px;
+          background-color: #f8f8f8;
+          font-size: 16px;
+          resize: none;
+          width: 100%;
+          height: 190px;
+        }
+        
+        .background{
+          background-image: url(/img/0705A438-3C0C-407E-8467-BBF8FF1B20D2.jpeg);
+          background-repeat: no-repeat;
+          background-size: cover;
+          margin-top: 1rem; 
+      }
+      /* .group{
+    font-size: 70px;
+    color: #ffffff;
+    font-family: Roboto-Bold;  
+    background-color: #DFC057;
+    margin-top: 15rem;
+    text-align: center;
+    width: 550px; height: 100vh
+}
+.indvduals{
+    font-size: 70px;
+    color: #ffffff;
+    font-family: Roboto-Bold;  
+    margin-top: 15rem;
+    text-align: center;
+    width: 550px; height: 100vh
+} */
+.direction{
+
+  
+}
+
+.img-pp{
+  width: 400px;
+  height: 300px;
+  margin-top: 20rem ;
+  margin-right: 0rem;
+
+}
+.collaps{
+  padding-right: 0rem; width: 600px; height: 400px;padding-top: 1rem;
+}
+.nav-item{
+  font-size: 17px;
+  padding-right: .5rem;
+  font-family: Roboto-Bold;
+  padding-top: 1rem;
+}
+.group{
+  font-size: 70px;
+  color: #ffffff;
+  font-family: Roboto-Bold;  
+  background-color: #DFC057;
+/* padding:20rem 4rem; */
+margin-top: 6rem;
+  margin-right: 0rem;
+  text-align: center;
+  width: 590px; height: 400px;
+  background: url("../img/الاعمال.png")  ;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size: cover;
+
+}
+.indvduals{
+  font-size: 70px;
+  color: #ffffff;
+  font-family: Roboto-Bold;  
+  background-color: #DFC057;
+/* padding:20rem 4rem; */
+  margin-top: 6rem;
+  margin-right: 0rem;
+  text-align: center;
+  width: 590px; height: 400px;
+  background: url("../img/grop.png") ;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size: cover;
+
+}
+.iconsocial{
+  padding-right: 3rem;
+  
+}
+.img-p{
+  margin-top: 0rem ;
+  margin-right: 0rem;
+}
+      /* .direction{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image:   url(/img/F76604DF-967C-446E-9395-2C36F2B881D6.jpeg); 
+    } */
+    .mai{
+      display: grid;
+      grid-template-columns: repeat(1,auto);
+      gap:2rem;
+  
+   }
+        .lam{
+            display: flex; padding-right: 0rem;
+        }
+        .proparites{
+            font-size: 40px; padding-right: 0rem; padding-top: 3rem;
+        }
+        .p label{
+            padding-right: 0rem; font-size: 30px;
+          }
+          .c_ro{
+            font-size: 60px; padding-right: 0rem; padding-top: 3rem;
+          }
+          .dis-fle{
+            display: block; padding-top: 3rem;
+        }
+          .pro-ms{
+            padding-top: 2rem; padding-bottom: 4rem;
+            display: block;
+          }
+          .roop{
+            padding-right: 0rem;
+        }
+          .labl-inp{
+            font-size: 30px; padding-right: 0rem;
+          }
+          .right-pad{
+            font-size: 30px; padding-right: 0rem;
+          }
+          .word{
+            text-align: center;
+            color: #ffffff;
+            font-size: 15px;
+            font-family: Roboto-Bold;
+        
+            padding: 1rem;
+            padding-right: 15rem;
+        }
+        /* .pro-box{
+          margin-bottom: 10rem;
+          margin-top: 10rem;
+          padding-right:0rem ;
+          } */
+          /* .boolean{
+              padding-top: 2rem; padding-left: 0rem;
+          } */
+          /* .org-pelo{
+          padding-left:0rem ;
+          } */
+          .boolean{
+            padding-top: 2rem; padding-left: 0rem;
+        }
+          .roject{
+            padding-top: 3rem;
+            font-size: 40px;
+            font-family: Roboto-Bold;
+            color: #ffffff;
+            text-align: right;
+        }
+        .end{
+          font-size: 20px;
+          font-family: Roboto-Regular;
+          color: #ffffff;
+          text-align: right;
+          padding-top: 3rem;
+          padding-bottom: 2rem;
+      }
+      .flex-blok{
+        display: block;
+    }
+    .coppa-card{
+      padding-right: 0rem;
+      padding-left: 0rem;
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+  }
+  .contry-squrity{
+    display: block;
+    padding-bottom: 2rem;
+}
+.cootconfra{
+  padding-right: 0rem;
+}
+.coppa-card{
+  padding-right: 3rem;
+  padding-left: 3rem;
+
+}
+/* .pro-box{
+  width: 14rem; height: 11rem;
+} */
+/* .org-pelo{
+  width: 14rem; height: 11rem;
+} */
+.date-time{
+   padding-right: 0rem;
+   padding-left: 0rem;
+   padding-top: 1rem;
+   padding-bottom: 1rem;
+}
+.email-lamis{
+    padding-right: 0rem;
+}
+.jwal-emal-p{
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  display: block;
+}
+}
+@media (max-width:394px){
+  .pro-box{
+    width: 12rem; height: 4rem;
+    margin-top: 2rem;
+  
+  }
+  .org-pelo{
+    width: 12rem; height: 4rem;
+        margin-top: 2rem;
+
+  }
+  .boolean{
+    margin-bottom: 8rem;
+  }
+}
+@media (max-width:363px){
+  .pro-box{
+    width: 11rem; height: 1rem;
+    margin-top: 2rem;
+  
+  }
+  .org-pelo{
+    width: 11rem; height: 1rem;
+        margin-top: 2rem;
+
+  }
+  .boolean{
+    margin-bottom: 10rem;
+  }
+  @media (max-width:339px){
+    .pro-box{
+      width: 10rem; height: 1rem;
+      margin-top: 2rem;
+    
+    }
+    .org-pelo{
+      width: 10rem; height: 1rem;
+          margin-top: 2rem;
+  
+    }
+    .boolean{
+      margin-bottom: 10rem;
+    }
+}
+@media (max-width:300px){
+  .pro-box{
+    width: 10rem; height: 1rem;
+    margin-top: 2rem;
+  
+  }
+  .org-pelo{
+    width: 10rem; height: 1rem;
+        margin-top: 2rem;
+
+  }
+  .boolean{
+    margin-bottom: 10rem;
+  }
+}
+@media (max-width:294px){
+  .pro-box{
+    width: 9rem; height: 4rem;
+    margin-top: 2rem;
+  
+  }
+  .org-pelo{
+    width: 9rem; height: 4rem;
+        margin-top: 2rem;
+
+  }
+  .boolean{
+    margin-bottom: 10rem;
+  }
+}
